@@ -12,3 +12,6 @@ This free tools allows to:
 - Open the config.ini file and put your keywords
 - In the terminal, Go to the tool folder and launch the exe file
 - After finishing, a result.csv file will be generated
+
+
+more details at: https://freecoder.dev
